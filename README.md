@@ -18,3 +18,4 @@ maximum: 5
 
 Used: PySpark, Colab, ETL, Cloud Services (AWS), PostgreSQL
 
+url: https://lumindak.github.io/big-data-challenge/
